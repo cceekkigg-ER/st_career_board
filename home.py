@@ -65,7 +65,7 @@ st.markdown(
 
 st.markdown(
     '<div class="normal-text">'
-    'I have been studying and working in the field of gas network since 2018, '
+    '<br>I have been studying and working in the field of gas network since 2018, '
     'focusing on optimizing workable flow patterns in complex natural gas '
     'networks. My work aims to meet various energy targets in natural gas and '
     'hydrogen scenarios, considering elements such as trading flows, storage, '

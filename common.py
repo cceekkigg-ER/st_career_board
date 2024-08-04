@@ -5,8 +5,8 @@ def config_page(Page_Title):
     icon_dict = {
         'Career Dashboard': "🧊",
         'Project': '📊',
-        'Tool': '🛠️',
         'Publication': '📑',
+        'Tool': '🛠️',
         'Others': '👩‍🏫',
     }
 
@@ -34,7 +34,6 @@ def config_page(Page_Title):
 
 
 def sidebar_menu():
-    # navigation sidebar
     st.sidebar.page_link('home.py', label='🏠 Home')
     st.sidebar.page_link('pages/projects.py', label='📊 Projects')
     st.sidebar.page_link('pages/tools.py', label='🛠️ Tools')

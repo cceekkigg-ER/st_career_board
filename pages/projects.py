@@ -32,9 +32,9 @@ with tab1:
     """)
     col_x1, col_y1 = st.columns([1, 1])
     with col_x1:
-        st.image("source/lfs_1.PNG", width=625)
+        st.image("source/lfs_1.png", width=625)
     with col_y1:
-        st.image("source/lfs_2.PNG", width=650)
+        st.image("source/lfs_2.png", width=650)
 with tab2:
     st.header("TransHyDE")
     st.markdown("""
